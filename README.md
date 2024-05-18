@@ -10,6 +10,8 @@ This configuration file supports an image, and weather+custom location as well a
 
 You must have fastfetch installed already. See https://github.com/fastfetch-cli/fastfetch
 
+Your terminal must support displaying images. For example, Konsole. 
+
 # Usage
 
 Place the config.jsonc file in ~/.config/fastfetch/config.jsonc
