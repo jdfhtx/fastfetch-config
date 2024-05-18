@@ -13,3 +13,8 @@ You must have fastfetch installed already. See https://github.com/fastfetch-cli/
 # Usage
 
 Place the config.jsonc file in ~/.config/fastfetch/config.jsonc
+
+Modify the config.jsonc file and change the path to your image
+
+If you want more options to be displayed, check out the examples: 
+https://github.com/fastfetch-cli/fastfetch/tree/dev/presets/examples
