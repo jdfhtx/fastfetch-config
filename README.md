@@ -4,7 +4,7 @@ This configuration file supports an image, and weather+custom location as well a
 
 # Requirements
 
-You must have fastfetch installed already. [![fastfetch-cli])https://github.com/fastfetch-cli/fastfetch)
+You must have fastfetch installed already. See https://github.com/fastfetch-cli/fastfetch
 
 # Usage
 
